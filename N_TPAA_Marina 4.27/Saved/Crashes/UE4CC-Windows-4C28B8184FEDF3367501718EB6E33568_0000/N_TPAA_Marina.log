@@ -1,0 +1,1347 @@
+﻿Log file open, 07/03/24 20:16:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: N_TPAA_Marina
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219038
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.07.03-19.16.05:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:012][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:017][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.07.03-19.16.05:018][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.07.03-19.16.05:018][  0]LogInit: Selected Device Profile: [Windows]
+[2024.07.03-19.16.05:018][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.07.03-19.16.05:018][  0]LogHAL: Display: Platform has ~ 8 GB [8366878720 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.07.03-19.16.05:018][  0]LogInit: Going up to parent DeviceProfile []
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Scalability.ini]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.07.03-19.16.05:019][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.07.03-19.16.05:020][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.07.03-19.16.05:020][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.07.03-19.16.05:020][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.07.03-19.16.05:020][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Engine.ini]
+[2024.07.03-19.16.05:020][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Config/Windows/Editor.ini]
+[2024.07.03-19.16.05:020][  0]LogInit: Computer: DESKTOP-MS5HQBB
+[2024.07.03-19.16.05:020][  0]LogInit: User: 38093
+[2024.07.03-19.16.05:020][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.07.03-19.16.05:020][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.07.03-19.16.05:020][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2024.07.03-19.16.05:020][  0]LogMemory: Platform Memory Stats for Windows
+[2024.07.03-19.16.05:020][  0]LogMemory: Process Physical Memory: 146.88 MB used, 146.88 MB peak
+[2024.07.03-19.16.05:020][  0]LogMemory: Process Virtual Memory: 119.55 MB used, 119.55 MB peak
+[2024.07.03-19.16.05:020][  0]LogMemory: Physical Memory: 7212.75 MB used,  766.53 MB free, 7979.28 MB total
+[2024.07.03-19.16.05:020][  0]LogMemory: Virtual Memory: 134214712.00 MB used,  3014.31 MB free, 134217728.00 MB total
+[2024.07.03-19.16.05:025][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.07.03-19.16.05:068][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.07.03-19.16.05:069][  0]LogInit: Using OS detected language (ru-RU).
+[2024.07.03-19.16.05:069][  0]LogInit: Using OS detected locale (en-GB).
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2024.07.03-19.16.05:073][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2024.07.03-19.16.05:074][  0]LogInit: Setting process to per monitor DPI aware
+[2024.07.03-19.16.05:085][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.03-19.16.05:100][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.07.03-19.16.05:100][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.07.03-19.16.05:314][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.07.03-19.16.05:352][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.07.03-19.16.05:352][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.07.03-19.16.05:352][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.07.03-19.16.05:352][  0]LogD3D11RHI: D3D11 adapters:
+[2024.07.03-19.16.05:518][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti' (Feature Level 11_0)
+[2024.07.03-19.16.05:518][  0]LogD3D11RHI:       3935/0/3989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.07.03-19.16.05:569][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.07.03-19.16.05:570][  0]LogD3D11RHI:       128/0/3989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:       0/0/3989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 Ti
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     DeviceId    : 1f95
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     SubSysId    : 195f1043
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     DedicatedVideoMemory : 4126146560 bytes
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     SharedSystemMemory : 4183439360 bytes
+[2024.07.03-19.16.05:573][  0]LogD3D11RHI:     AdapterLuid : 0 80931
+[2024.07.03-19.16.05:580][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.07.03-19.16.05:580][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2024.07.03-19.16.05:580][  0]LogWindows: EnumDisplayDevices:
+[2024.07.03-19.16.05:580][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.07.03-19.16.05:580][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.07.03-19.16.05:580][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.07.03-19.16.05:580][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2024.07.03-19.16.05:581][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2024.07.03-19.16.05:581][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2024.07.03-19.16.05:581][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2024.07.03-19.16.05:581][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:   Driver Version: 551.23 (internal:31.0.15.5123, unified:551.23)
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:      Driver Date: 1-18-2024
+[2024.07.03-19.16.05:581][  0]LogRHI: Texture pool is 2754 MB (70% of 3935 MB)
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 Ti
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     DeviceId    : 1f95
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     SubSysId    : 195f1043
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     DedicatedVideoMemory : 4126146560 bytes
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     SharedSystemMemory : 4183439360 bytes
+[2024.07.03-19.16.05:581][  0]LogD3D11RHI:     AdapterLuid : 0 80931
+[2024.07.03-19.16.05:663][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.07.03-19.16.05:664][  0]LogD3D11RHI: Async texture creation enabled
+[2024.07.03-19.16.05:664][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.07.03-19.16.05:702][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.07.03-19.16.05:737][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.07.03-19.16.06:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.07.03-19.16.06:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.07.03-19.16.06:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.07.03-19.16.06:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.07.03-19.16.06:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.07.03-19.16.06:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.07.03-19.16.06:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.07.03-19.16.06:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.07.03-19.16.06:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.07.03-19.16.06:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.07.03-19.16.06:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.07.03-19.16.06:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.07.03-19.16.06:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.07.03-19.16.06:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.07.03-19.16.06:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.07.03-19.16.06:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.07.03-19.16.06:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.07.03-19.16.06:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.07.03-19.16.06:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.07.03-19.16.06:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.07.03-19.16.06:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.07.03-19.16.06:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.07.03-19.16.06:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.07.03-19.16.06:159][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.07.03-19.16.06:168][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.07.03-19.16.06:199][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.07.03-19.16.06:233][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.07.03-19.16.06:233][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Intermediate/Shaders/WorkingDirectory/31628/).
+[2024.07.03-19.16.06:233][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/38093/AppData/Local/Temp/UnrealShaderWorkingDir/B2B0385A418311E05597F7B70C351F6C/'.
+[2024.07.03-19.16.06:233][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.07.03-19.16.06:233][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.07.03-19.16.06:233][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.07.03-19.16.07:037][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.07.03-19.16.07:171][  0]LogDerivedDataCache: Loaded boot cache 0.13s 94MB C:/Users/38093/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.07.03-19.16.07:171][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/38093/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.07.03-19.16.07:171][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.07.03-19.16.07:171][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.07.03-19.16.07:171][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.07.03-19.16.07:171][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.07.03-19.16.07:190][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.07.03-19.16.07:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.07.03-19.16.07:190][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.07.03-19.16.07:207][  0]LogDerivedDataCache: Speed tests for C:/Users/38093/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2024.07.03-19.16.07:207][  0]LogDerivedDataCache: Display: Performance to C:/Users/38093/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=214.74MBs, RandomWriteSpeed=86.94MBs. Assigned SpeedClass 'Local'
+[2024.07.03-19.16.07:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/38093/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.07.03-19.16.07:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.07.03-19.16.07:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.07.03-19.16.07:259][  0]LogSlate: Using FreeType 2.10.0
+[2024.07.03-19.16.07:260][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.07.03-19.16.07:293][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2024.07.03-19.16.07:541][  0]LogInit: Selected Device Profile: [Windows]
+[2024.07.03-19.16.07:541][  0]LogInit: Active device profile: [0000022BE8A54B00][0000022BD97492C0 49] Windows
+[2024.07.03-19.16.07:541][  0]LogInit: Profiles: [0000022BE8A54B00][0000022BD97492C0 49] Windows, [0000022BE8A16100][0000022BE5107440 49] WindowsNoEditor, [0000022BE8A55900][0000022BE510B5C0 49] WindowsServer, [0000022BE8A16E00][0000022BE510F740 49] WindowsClient, [0000022BE8A57C00][0000022BE51138C0 49] IOS, [0000022BE8A14F00][0000022BE5117A40 49] iPadAir, [0000022BE8A57E00][0000022BE511BBC0 49] iPadAir2, [0000022BE89C4C00][0000022BE5122300 49] IPadPro, [0000022BE89C4D00][0000022BE511E340 49] iPadAir3, [0000022BE8A17B00][0000022BE51264C0 49] iPadAir4, [0000022BE89C7600][0000022BE512A640 49] iPadMini2, [0000022BE8A17200][0000022BD974C780 49] iPadMini3, [0000022BE89C7800][0000022BE512E8C0 49] iPadMini4, [0000022BE8A17800][0000022BE5132A00 49] iPadMini5, [0000022BE89F0600][0000022BE513EC80 49] iPhone6, [0000022BE89F0700][0000022BE5136CC0 49] iPodTouch6, [0000022BE8A56900][0000022BE5146F80 49] iPhone7, [0000022BE8A56800][0000022BE5142FC0 49] iPodTouch7, [0000022BE89F0100][0000022BE514B140 49] iPhone5S, [0000022BE89C4700][0000022BE514F2C0 49] iPhone6Plus, [0000022BE89F2500][0000022BE5153440 49] iPhone6S, [0000022BE89C5300][0000022BE51575C0 49] iPhone6SPlus, [0000022BE89F3B00][0000022BE515B740 49] iPhone7Plus, [0000022BE89C7500][0000022BE83A38C0 49] iPhoneSE, [0000022BE8A56600][0000022BE83A7A40 49] iPhone8, [0000022BE89C4600][0000022BE83ABBC0 49] iPhone8Plus, [0000022BE8A56200][0000022BE83AE1C0 49] iPhoneX, [0000022BE89C7300][0000022BE83B2340 49] iPhoneXS, [0000022BE8A57400][0000022BE83B64C0 49] iPhoneXSMax, [0000022BE89C6D00][0000022BE83BA640 49] iPhoneXR, [0000022BE8A54200][0000022BE83BE7C0 49] iPhone11, [0000022BE89C5E00][0000022BE83C2940 49] iPhone11Pro, [0000022BE8A56A00][0000022BE513AA80 49] iPhone11ProMax, [0000022BE89C7700][0000022BE83C6BC0 49] iPhoneSE2, [0000022BE8A54D00][0000022BE83CAD00 49] iPhone12Mini, [0000022BE89C5F00][0000022BE83D2E80 49] iPhone12, [0000022BE8A54700][0000022BE83D7000 49] iPhone12Pro, [0000022BE89C5400][0000022BE83DB180 49] iPhone12ProMax, [0000022BE8A54C00][0000022BE83DF300 49] iPadPro105, [0000022BE89C5700][0000022BE83E3480 49] iPadPro129, [0000022BE8A54100][0000022BE83EB600 49] iPadPro97, [0000022BE89C7C00][0000022BE83EF780 49] iPadPro2_129, [0000022BE8A54800][0000022BE83F3900 49] iPad5, [0000022BE89C7100][0000022BE83F7A80 49] iPad6, [0000022BE8A54500][0000022BE83FBC00 49] iPad7, [0000022BE89C6800][0000022BE83FE200 49] iPad8, [0000022BE8A55500][0000022BE8402380 49] iPadPro11, [0000022BE89C5500][0000022BE8406500 49] iPadPro2_11, [0000022BE8A54F00][0000022BE840A680 49] iPadPro3_129, [0000022BE89C6C00][0000022BE840E800 49] iPadPro4_129, [0000022BE8A56500][0000022BE8412980 49] AppleTV, [0000022BE89C5100][0000022BE8416B00 49] AppleTV4K, [0000022BE8A54400][0000022BE83CEC40 49] TVOS, [0000022BE89C6600][0000022BE841AD80 49] Mac, [0000022BE8A57D00][0000022BE8438EC0 49] MacClient, [0000022BE89C5800][0000022BE8441040 49] MacNoEditor, [0000022BE8A57100][0000022BE84451C0 49] MacServer, [0000022BE89C7900][0000022BE8449340 49] Linux, [0000022BE8A54900][0000022BE844D4C0 49] LinuxAArch64, [0000022BE89C7F00][0000022BE8451640 49] LinuxNoEditor, [0000022BE8A55B00][0000022BE84557C0 49] LinuxAArch64NoEditor, [0000022BE89C7400][0000022BE8459940 49] LinuxClient, [0000022BE8A55C00][0000022BE845DAC0 49] LinuxAArch64Client, [0000022BE89C5D00][0000022BE84600C0 49] LinuxServer, [0000022BE8A56F00][0000022BE8464240 49] LinuxAArch64Server, [0000022BE89C4500][0000022BE84683C0 49] Android, [0000022BE8A55E00][0000022BE846C540 49] Android_Low, [0000022BE89C7000][0000022BE84706C0 49] Android_Mid, [0000022BE8A56400][0000022BE8474840 49] Android_High, [0000022BE89C4800][0000022BE84789C0 49] Android_Default, [0000022BE8A57200][0000022BE847CB40 49] Android_Adreno4xx, [0000022BE8A16400][0000022BE8480CC0 49] Android_Adreno5xx_Low, [0000022BE89F1C00][0000022BE843CE00 49] Android_Adreno5xx, [0000022BE8A17D00][0000022BE8484F40 49] Android_Adreno6xx, [0000022BE89F2B00][0000022BE8489080 49] Android_Adreno6xx_Vulkan, [0000022BE8A17E00][0000022BE848D1C0 49] Android_Mali_T6xx, [0000022BE89F0F00][0000022BE8495340 49] Android_Mali_T7xx, [0000022BE8A15300][0000022BE84994C0 49] Android_Mali_T8xx, [0000022BE89F1F00][0000022BE849D640 49] Android_Mali_G71, [0000022BE8A15C00][0000022BE94B17C0 49] Android_Mali_G72, [0000022BE89F2400][0000022BE94B5940 49] Android_Mali_G72_Vulkan, [0000022BE8A17600][0000022BE94B9AC0 49] Android_Mali_G76, [0000022BE89F2100][0000022BE94EE0C0 49] Android_Mali_G76_Vulkan, [0000022BE8A15B00][0000022BE94F2240 49] Android_Mali_G77, [0000022BE89F0A00][0000022BE94F63C0 49] Android_Mali_G77_Vulkan, [0000022BE8A17400][0000022BE94FA540 49] Android_Mali_G78, [0000022BE89F1300][0000022BE94FE6C0 49] Android_Mali_G78_Vulkan, [0000022BE8A16900][0000022BE9502840 49] Android_Mali_G710, [0000022BE89F3D00][0000022BE95069C0 49] Android_Mali_G710_Vulkan, [0000022BE8A15E00][0000022BE950AB40 49] Android_Vulkan_SM5, [0000022BE89F0900][0000022BE950ECC0 49] Android_PowerVR_G6xxx, [0000022BE8A15F00][0000022BE9512E40 49] Android_PowerVR_GT7xxx, [0000022BE89F2700][0000022BE8490F80 49] Android_PowerVR_GE8xxx, [0000022BE8A16300][0000022BE95170C0 49] Android_PowerVR_GM9xxx, [0000022BE89F3200][0000022BE951B200 49] Android_PowerVR_GM9xxx_Vulkan, [0000022BE8A17000][0000022BE951F340 49] Android_TegraK1, [0000022BE89F1700][0000022BE95274C0 49] Android_Unknown_Vulkan, [0000022BE8A17700][0000022BE952B640 49] Lumin, [0000022BE89F0200][0000022BE952F7C0 49] Lumin_Desktop, [0000022BE8A16200][0000022BE9533940 49] HoloLens, 
+[2024.07.03-19.16.07:710][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.07.03-19.16.07:710][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.07.03-19.16.07:710][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.07.03-19.16.07:710][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.07.03-19.16.07:710][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.07.03-19.16.07:728][  0]LogNetVersion: N_TPAA_Marina 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1539250465)
+[2024.07.03-19.16.08:199][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.07.03-19.16.08:257][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.07.03-19.16.08:262][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.07.03-19.16.08:262][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.07.03-19.16.08:262][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.07.03-19.16.08:451][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BFA63B644057FC707610B9986B78E542 | Instance: 614B793548F43E872D397093C49067C1 (DESKTOP-MS5HQBB-31628).
+[2024.07.03-19.16.08:621][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.07.03-19.16.08:626][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.07.03-19.16.08:752][  0]LogPython: Using Python 3.7.7
+[2024.07.03-19.16.09:325][  0]SourceControl: Source control is disabled
+[2024.07.03-19.16.09:325][  0]SourceControl: Source control is disabled
+[2024.07.03-19.16.09:330][  0]SourceControl: Source control is disabled
+[2024.07.03-19.16.09:333][  0]SourceControl: Source control is disabled
+[2024.07.03-19.16.09:340][  0]SourceControl: Source control is disabled
+[2024.07.03-19.16.09:354][  0]LogUProjectInfo: Found projects:
+[2024.07.03-19.16.09:361][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.07.03-19.16.09:361][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.07.03-19.16.09:361][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.07.03-19.16.09:428][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.07.03-19.16.09:458][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.03-19.16.09:458][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.03-19.16.09:790][  0]LogOpenImageDenoise: OIDN starting up
+[2024.07.03-19.16.09:807][  0]LogOcInput: OculusInput pre-init called
+[2024.07.03-19.16.09:989][  0]LogCollectionManager: Loaded 0 collections in 0.000680 seconds
+[2024.07.03-19.16.10:049][  0]LogFileCache: Scanning file cache for directory 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Collections/' took 0.00s
+[2024.07.03-19.16.10:049][  0]LogFileCache: Scanning file cache for directory 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Developers/38093/Collections/' took 0.00s
+[2024.07.03-19.16.10:049][  0]LogFileCache: Scanning file cache for directory 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Collections/' took 0.00s
+[2024.07.03-19.16.10:049][  0]LogEngine: Initializing Engine...
+[2024.07.03-19.16.10:063][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.07.03-19.16.10:063][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.07.03-19.16.10:064][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.07.03-19.16.10:064][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.07.03-19.16.10:198][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.07.03-19.16.10:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.07.03-19.16.10:216][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.07.03-19.16.10:220][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.07.03-19.16.10:220][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.07.03-19.16.10:221][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.07.03-19.16.10:221][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.03-19.16.10:221][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.03-19.16.10:221][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.03-19.16.10:221][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.03-19.16.10:221][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.03-19.16.10:221][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.03-19.16.10:239][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.03-19.16.10:239][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.07.03-19.16.10:354][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2024.07.03-19.16.10:359][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.03-19.16.10:361][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.03-19.16.10:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.03-19.16.10:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.03-19.16.10:363][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.03-19.16.10:363][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.03-19.16.10:364][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.03-19.16.10:364][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.03-19.16.10:364][  0]LogInit: FAudioDevice initialized.
+[2024.07.03-19.16.10:364][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.07.03-19.16.10:364][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.07.03-19.16.10:424][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/38093/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.07.03-19.16.10:424][  0]LogInit: Texture streaming: Enabled
+[2024.07.03-19.16.10:441][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.07.03-19.16.10:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.07.03-19.16.10:446][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.07.03-19.16.10:448][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.07.03-19.16.10:482][  0]LogInit: Transaction tracking system initialized
+[2024.07.03-19.16.10:517][  0]BlueprintLog: New page: Editor Load
+[2024.07.03-19.16.10:588][  0]LocalizationService: Localization service is disabled
+[2024.07.03-19.16.10:614][  0]TimingProfiler: Initialize
+[2024.07.03-19.16.10:614][  0]TimingProfiler: OnSessionChanged
+[2024.07.03-19.16.10:614][  0]LoadingProfiler: Initialize
+[2024.07.03-19.16.10:614][  0]LoadingProfiler: OnSessionChanged
+[2024.07.03-19.16.10:614][  0]NetworkingProfiler: Initialize
+[2024.07.03-19.16.10:614][  0]NetworkingProfiler: OnSessionChanged
+[2024.07.03-19.16.10:614][  0]MemoryProfiler: Initialize
+[2024.07.03-19.16.10:614][  0]MemoryProfiler: OnSessionChanged
+[2024.07.03-19.16.10:680][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.07.03-19.16.10:681][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.07.03-19.16.10:681][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.07.03-19.16.10:791][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.07.03-19.16.10:791][  0]LogCook: Display: Mobile HDR setting 1
+[2024.07.03-19.16.10:996][  0]LogFileCache: Scanning file cache for directory 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/' took 0.01s
+[2024.07.03-19.16.11:177][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.07.03-19.16.11:181][  0]SourceControl: Source control is disabled
+[2024.07.03-19.16.11:181][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.061
+[2024.07.03-19.16.11:181][  0]Cmd: MAP LOAD FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.03-19.16.11:181][  0]LogEditorServer: Warning: Can't find file 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.07.03-19.16.11:182][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.03-19.16.11:182][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2024.07.03-19.16.11:182][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2024.07.03-19.16.11:183][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.063
+[2024.07.03-19.16.11:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.03-19.16.11:418][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3822 classes and 928 folders.
+[2024.07.03-19.16.11:429][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.07.03-19.16.11:446][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.07.03-19.16.11:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.07.03-19.16.11:448][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:448][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.07.03-19.16.11:449][  0]LogPakFile: OnPakFileMounted2Time == 0.001480
+[2024.07.03-19.16.11:461][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.07.03-19.16.11:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.07.03-19.16.11:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.07.03-19.16.11:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2024.07.03-19.16.11:468][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.07.03-19.16.11:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.07.03-19.16.11:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.07.03-19.16.11:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.07.03-19.16.11:476][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.07.03-19.16.11:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.07.03-19.16.11:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.07.03-19.16.11:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2024.07.03-19.16.11:483][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.07.03-19.16.11:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.07.03-19.16.11:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.07.03-19.16.11:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.07.03-19.16.11:489][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.07.03-19.16.11:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.07.03-19.16.11:489][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:489][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.07.03-19.16.11:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.07.03-19.16.11:495][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.07.03-19.16.11:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.07.03-19.16.11:495][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:495][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.07.03-19.16.11:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2024.07.03-19.16.11:503][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.07.03-19.16.11:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.07.03-19.16.11:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.07.03-19.16.11:503][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2024.07.03-19.16.11:513][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.07.03-19.16.11:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.07.03-19.16.11:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.07.03-19.16.11:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.07.03-19.16.11:522][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.07.03-19.16.11:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.07.03-19.16.11:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.07.03-19.16.11:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.07.03-19.16.11:528][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.07.03-19.16.11:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.07.03-19.16.11:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.07.03-19.16.11:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.07.03-19.16.11:535][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.07.03-19.16.11:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.07.03-19.16.11:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.07.03-19.16.11:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.07.03-19.16.11:542][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.07.03-19.16.11:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.07.03-19.16.11:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.07.03-19.16.11:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.07.03-19.16.11:549][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.07.03-19.16.11:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.07.03-19.16.11:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.07.03-19.16.11:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.07.03-19.16.11:556][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.07.03-19.16.11:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.07.03-19.16.11:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.07.03-19.16.11:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.07.03-19.16.11:562][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.07.03-19.16.11:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.07.03-19.16.11:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.07.03-19.16.11:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.07.03-19.16.11:568][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.07.03-19.16.11:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.07.03-19.16.11:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.07.03-19.16.11:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2024.07.03-19.16.11:576][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.07.03-19.16.11:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.07.03-19.16.11:576][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:576][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.07.03-19.16.11:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.07.03-19.16.11:581][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.07.03-19.16.11:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.07.03-19.16.11:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.07.03-19.16.11:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.07.03-19.16.11:592][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.07.03-19.16.11:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.07.03-19.16.11:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.07.03-19.16.11:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2024.07.03-19.16.11:598][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.07.03-19.16.11:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.07.03-19.16.11:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.07.03-19.16.11:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.07.03-19.16.11:604][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.07.03-19.16.11:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.07.03-19.16.11:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.07.03-19.16.11:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.07.03-19.16.11:611][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.07.03-19.16.11:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.07.03-19.16.11:611][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:611][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.07.03-19.16.11:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.07.03-19.16.11:618][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.07.03-19.16.11:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.07.03-19.16.11:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.07.03-19.16.11:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2024.07.03-19.16.11:625][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.07.03-19.16.11:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.07.03-19.16.11:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.07.03-19.16.11:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.07.03-19.16.11:632][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.07.03-19.16.11:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.07.03-19.16.11:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.07.03-19.16.11:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.07.03-19.16.11:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.07.03-19.16.11:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.07.03-19.16.11:837][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.07.03-19.16.11:845][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2024.07.03-19.16.11:939][  0]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.03-19.16.11:949][  0]LogSlate: Took 0.008956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.03-19.16.11:950][  0]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.07.03-19.16.12:124][  0]LogRenderer: Reallocating scene render targets to support 732x368 Format 9 NumSamples 1 (Frame:1).
+[2024.07.03-19.16.12:262][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.07.03-19.16.12:262][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.07.03-19.16.12:262][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.07.03-19.16.12:262][  0]LogLoad: (Engine Initialization) Total time: 9.14 seconds
+[2024.07.03-19.16.12:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.07.03-19.16.12:327][  0]LogContentStreaming: Texture pool size now 400 MB
+[2024.07.03-19.16.12:369][  1]LogAssetRegistry: Asset discovery search completed in 5.0779 seconds
+[2024.07.03-19.16.12:380][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.07.03-19.16.12:483][  3]LogSlate: Took 0.009180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.03-19.16.13:294][ 89]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.03-19.16.15:230][267]LogRenderer: Reallocating scene render targets to support 736x368 Format 9 NumSamples 1 (Frame:257).
+[2024.07.03-19.16.15:273][269]LogRenderer: Reallocating scene render targets to support 796x368 Format 9 NumSamples 1 (Frame:261).
+[2024.07.03-19.16.15:294][270]LogRenderer: Reallocating scene render targets to support 844x368 Format 9 NumSamples 1 (Frame:263).
+[2024.07.03-19.16.15:316][271]LogRenderer: Reallocating scene render targets to support 900x368 Format 9 NumSamples 1 (Frame:265).
+[2024.07.03-19.16.15:338][272]LogRenderer: Reallocating scene render targets to support 908x368 Format 9 NumSamples 1 (Frame:267).
+[2024.07.03-19.16.15:544][291]LogRenderer: Reallocating scene render targets to support 912x368 Format 9 NumSamples 1 (Frame:275).
+[2024.07.03-19.16.15:559][292]LogRenderer: Reallocating scene render targets to support 916x368 Format 9 NumSamples 1 (Frame:277).
+[2024.07.03-19.16.15:579][293]LogRenderer: Reallocating scene render targets to support 920x368 Format 9 NumSamples 1 (Frame:279).
+[2024.07.03-19.16.15:597][294]LogRenderer: Reallocating scene render targets to support 924x368 Format 9 NumSamples 1 (Frame:281).
+[2024.07.03-19.16.15:615][295]LogRenderer: Reallocating scene render targets to support 928x368 Format 9 NumSamples 1 (Frame:283).
+[2024.07.03-19.16.15:632][296]LogRenderer: Reallocating scene render targets to support 932x368 Format 9 NumSamples 1 (Frame:285).
+[2024.07.03-19.16.15:652][297]LogRenderer: Reallocating scene render targets to support 936x368 Format 9 NumSamples 1 (Frame:287).
+[2024.07.03-19.16.15:689][299]LogRenderer: Reallocating scene render targets to support 940x368 Format 9 NumSamples 1 (Frame:291).
+[2024.07.03-19.16.15:768][306]LogRenderer: Reallocating scene render targets to support 944x368 Format 9 NumSamples 1 (Frame:295).
+[2024.07.03-19.16.15:784][307]LogRenderer: Reallocating scene render targets to support 956x368 Format 9 NumSamples 1 (Frame:297).
+[2024.07.03-19.16.15:805][307]LogRenderer: Reallocating scene render targets to support 964x368 Format 9 NumSamples 1 (Frame:299).
+[2024.07.03-19.16.15:838][309]LogRenderer: Reallocating scene render targets to support 972x368 Format 9 NumSamples 1 (Frame:301).
+[2024.07.03-19.16.21:686][739]LogSkeletalMesh: Display: [AssetLog] D:\pipsi\UED-33_MarinaDeykun\N_TPAA_Marina 4.27\Content\PolygonPrototype\Meshes\Weapons\SK_Prop_Rifle_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.07.03-19.16.21:866][739]LogSkeletalMesh: Display: [AssetLog] D:\pipsi\UED-33_MarinaDeykun\N_TPAA_Marina 4.27\Content\PolygonPrototype\Meshes\Weapons\SK_Prop_Pistol_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.07.03-19.16.22:204][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/BP_AIController.BP_AIController
+[2024.07.03-19.16.22:995][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2024.07.03-19.16.24:068][739]LogSlate: Took 0.000444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.03-19.16.24:205][740]LogSlate: Took 0.006209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.07.03-19.39.10:450][260]LogUObjectHash: Compacting FUObjectHashTables data took  19.82ms
+[2024.07.03-19.39.12:001][260]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-19.39.12:026][260]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-19.39.12:065][260]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/HW04_MarinaDeykun_EasyDifficulty.HW04_MarinaDeykun_EasyDifficulty
+[2024.07.03-19.39.12:066][260]Cmd: MAP LOAD FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Maps/HW04_MarinaDeykun_EasyDifficulty.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.03-19.39.12:066][260]LightingResults: New page: Lighting Build
+[2024.07.03-19.39.12:073][260]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0018 seconds. Added 6 classes and 0 folders.
+[2024.07.03-19.39.12:076][260]LoadErrors: New page: Loading map: HW04_MarinaDeykun_EasyDifficulty.umap
+[2024.07.03-19.39.12:079][260]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.07.03-19.39.12:082][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.03-19.39.12:085][260]MapCheck: New page: Map Check
+[2024.07.03-19.39.12:085][260]LightingResults: New page: Lighting Build
+[2024.07.03-19.39.12:111][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.03-19.39.12:139][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.07.03-19.39.12:144][260]LogAudio: Display: Audio Device (ID: 1) registered with world 'HW04_MarinaDeykun_EasyDifficulty'.
+[2024.07.03-19.39.12:164][260]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-19.39.12:169][260]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-19.39.12:195][260]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.03-19.39.12:195][260]LogAIModule: Creating AISystem for world HW04_MarinaDeykun_EasyDifficulty
+[2024.07.03-19.39.12:232][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.07.03-19.39.12:258][260]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.03-19.39.12:258][260]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2024.07.03-19.39.12:258][260]LogFileHelpers: Loading map 'HW04_MarinaDeykun_EasyDifficulty' took 0.193
+[2024.07.03-19.41.38:677][174]LogSlate: Took 0.006854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.03-19.42.34:903][970]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/STRUCT_MainStats.STRUCT_MainStats
+[2024.07.03-19.43.05:665][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structures/STRUCT_MainStats" FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Structures/STRUCT_MainStats.uasset" SILENT=true
+[2024.07.03-19.43.05:685][623]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/STRUCT_MainStats8A7544C34C212608199E1D88FD3FBB5D.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Structures/STRUCT_MainStats.uasset'
+[2024.07.03-19.43.05:709][623]AssetCheck: New page: Asset Save: STRUCT_MainStats
+[2024.07.03-19.43.05:709][623]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/STRUCT_MainStats.STRUCT_MainStats
+[2024.07.03-19.43.10:906][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BP_MainStatsComponent.BP_MainStatsComponent
+[2024.07.03-19.44.10:372][420]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.07.03-19.44.13:979][690]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.07.03-19.44.13:986][690]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.07.03-19.44.23:338][754]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-19.44.23:479][754]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-19.44.55:886][314]BlueprintLog: New page: Compile BP_MainStatsComponent
+[2024.07.03-19.44.56:096][314]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2024.07.03-19.44.56:162][314]LogSlate: Took 0.006985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.07.03-19.46.41:262][ 80]BlueprintLog: New page: Compile BP_MainStatsComponent
+[2024.07.03-19.46.41:398][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2024.07.03-19.46.41:930][116]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_MainStatsComponent651B77024276EC9FF7E0C6B22C9F091C.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Components/BP_MainStatsComponent.uasset'
+[2024.07.03-19.46.41:955][116]AssetCheck: New page: Asset Save: BP_MainStatsComponent
+[2024.07.03-19.46.41:955][116]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Components/BP_MainStatsComponent.BP_MainStatsComponent
+[2024.07.03-19.46.43:454][272]BlueprintLog: New page: Compile BP_MainStatsComponent
+[2024.07.03-19.46.43:567][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2024.07.03-19.46.44:054][310]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_MainStatsComponentDEA1D4AE4D2D2BE617AB5C982E6FD4FB.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Components/BP_MainStatsComponent.uasset'
+[2024.07.03-19.46.44:075][310]AssetCheck: New page: Asset Save: BP_MainStatsComponent
+[2024.07.03-19.46.44:075][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Components/BP_MainStatsComponent.BP_MainStatsComponent
+[2024.07.03-19.48.13:935][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structures/STRUCT_MainStats" FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Structures/STRUCT_MainStats.uasset" SILENT=true
+[2024.07.03-19.48.13:937][187]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/STRUCT_MainStatsF867872841800D64B3629F9C1CB1E5AD.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Structures/STRUCT_MainStats.uasset'
+[2024.07.03-19.48.13:975][187]AssetCheck: New page: Asset Save: STRUCT_MainStats
+[2024.07.03-19.48.13:975][187]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/STRUCT_MainStats.STRUCT_MainStats
+[2024.07.03-19.48.20:711][832]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Enum/ENUM_Behaviour.ENUM_Behaviour
+[2024.07.03-19.49.27:353][498]BlueprintLog: New page: Compile BP_MainStatsComponent
+[2024.07.03-19.49.27:464][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2024.07.03-19.49.28:147][531]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_MainStatsComponentC89F4036407CAD315A9014B16594575A.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Components/BP_MainStatsComponent.uasset'
+[2024.07.03-19.49.28:169][531]AssetCheck: New page: Asset Save: BP_MainStatsComponent
+[2024.07.03-19.49.28:169][531]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Components/BP_MainStatsComponent.BP_MainStatsComponent
+[2024.07.03-19.49.41:613][333]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Data/DT_AllStats.DT_AllStats
+[2024.07.03-19.51.48:046][880]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2024.07.03-19.51.48:096][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/HW04_MarinaDeykun_EasyDifficultyC02888EB4152AE3BB01A9BB6628F4502.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Maps/HW04_MarinaDeykun_EasyDifficulty_Auto1.umap'
+[2024.07.03-19.51.48:097][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/HW04_MarinaDeykun_EasyDifficulty' took 0.131
+[2024.07.03-19.51.48:097][880]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2024.07.03-19.51.48:099][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/BP_AIController] ([2] browsable assets)...
+[2024.07.03-19.51.48:099][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/BP_AIController]
+[2024.07.03-19.51.48:218][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_AIController_Auto17AA0B61E436D06D5E60F48AB15D3973C.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Controllers/BP_AIController_Auto1.uasset'
+[2024.07.03-19.51.48:221][880]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Weapons/BP_WeaponBase] ([2] browsable assets)...
+[2024.07.03-19.51.48:261][880]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase]
+[2024.07.03-19.51.48:261][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_WeaponBase]
+[2024.07.03-19.51.48:373][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_WeaponBase_Auto18861D45448CFC6FCA48E4D9DF585FF2A.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto1.uasset'
+[2024.07.03-19.51.48:376][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/Widgets/W_HealthBar] ([2] browsable assets)...
+[2024.07.03-19.51.48:376][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/Widgets/W_HealthBar]
+[2024.07.03-19.51.48:408][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/W_HealthBar_Auto136AC24674577CE69594DC689B25F8424.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/HUD/Widgets/W_HealthBar_Auto1.uasset'
+[2024.07.03-19.51.48:413][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/Widgets/W_StaminaBar] ([2] browsable assets)...
+[2024.07.03-19.51.48:413][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/Widgets/W_StaminaBar]
+[2024.07.03-19.51.48:446][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/W_StaminaBar_Auto1B385FD72413216F61761748ACC73B6AE.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/HUD/Widgets/W_StaminaBar_Auto1.uasset'
+[2024.07.03-19.51.48:447][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/DT_AllStats] ([1] browsable assets)...
+[2024.07.03-19.51.48:447][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/DT_AllStats]
+[2024.07.03-19.51.48:447][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/DT_AllStats" FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Data/DT_AllStats_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.03-19.51.48:448][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/DT_AllStats_Auto1A3EB97924ED59502A1E3088D6AAAE313.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Data/DT_AllStats_Auto1.uasset'
+[2024.07.03-19.51.48:449][880]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Environment/BP_ShootingTarget] ([2] browsable assets)...
+[2024.07.03-19.51.48:477][880]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Environment/BP_ShootingTarget.BP_ShootingTarget]
+[2024.07.03-19.51.48:477][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/BP_ShootingTarget]
+[2024.07.03-19.51.48:512][880]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_ShootingTarget_Auto1B162B9404CE55C2BFD82EB87998A22BB.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Environment/BP_ShootingTarget_Auto1.uasset'
+[2024.07.03-19.51.48:513][880]LogFileHelpers: Auto-saving content packages took 0.416
+[2024.07.03-19.54.14:143][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/DT_AllStats" FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Data/DT_AllStats.uasset" SILENT=true
+[2024.07.03-19.54.14:144][613]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/DT_AllStatsEF7EA992432DC4418DA416BB1182811D.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Data/DT_AllStats.uasset'
+[2024.07.03-19.54.14:179][613]AssetCheck: New page: Asset Save: DT_AllStats
+[2024.07.03-19.54.14:179][613]LogContentValidation: Display: Validating DataTable /Game/Data/DT_AllStats.DT_AllStats
+[2024.07.03-20.06.32:141][347]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.06.33:538][430]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.06.39:863][801]LogContentBrowser: Deferred new asset file creation: BP_NPCCharacters_Child
+[2024.07.03-20.06.39:902][801]LogContentBrowser: Creating deferred item: BP_NPCCharacters_Child
+[2024.07.03-20.06.51:308][485]LogContentBrowser: Attempting asset rename: BP_NPCCharacters_Child -> BP_NPC_Tank_A
+[2024.07.03-20.06.51:315][485]LogContentBrowser: End creating deferred item BP_NPCCharacters_Child
+[2024.07.03-20.06.51:412][491]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.06.53:941][628]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.03-20.06.53:963][628]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.03-20.06.57:537][843]LogContentBrowser: Attempting asset rename: NewFolder -> Tank_A
+[2024.07.03-20.06.57:540][843]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.SKEL_BP_NPC_Tank_A_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.SKEL_BP_NPC_Tank_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:538][ 15]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.00:582][ 15]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.07.00:630][ 15]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Tank_A5462C67E4C0CEC2798DD65B46FBEAAF8.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.uasset'
+[2024.07.03-20.07.00:779][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2024.07.03-20.07.00:841][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2024.07.03-20.07.00:883][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.07.03-20.07.01:050][ 15]AssetCheck: New page: Asset Save: BP_NPC_Tank_A
+[2024.07.03-20.07.01:050][ 15]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.BP_NPC_Tank_A
+[2024.07.03-20.07.06:360][327]LogContentBrowser: Attempting asset rename: Tank_A -> Tank
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.SKEL_BP_NPC_Tank_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.SKEL_BP_NPC_Tank_A_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:410][327]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/Tank_A/BP_NPC_Tank_A.PackageMetaData'
+[2024.07.03-20.07.06:497][327]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Tank_AD631824544C58807476A35AA5E78A279.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.uasset'
+[2024.07.03-20.07.06:619][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2024.07.03-20.07.06:675][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2024.07.03-20.07.06:713][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.03-20.07.06:820][327]AssetCheck: New page: Asset Save: BP_NPC_Tank_A
+[2024.07.03-20.07.06:820][327]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A
+[2024.07.03-20.07.09:350][474]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.03-20.07.09:386][474]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.03-20.07.13:041][694]LogContentBrowser: Attempting asset rename: NewFolder -> Boss
+[2024.07.03-20.07.13:042][694]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.03-20.07.14:331][765]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.03-20.07.14:359][765]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.03-20.07.16:130][872]LogContentBrowser: Attempting asset rename: NewFolder -> DD
+[2024.07.03-20.07.16:130][872]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.03-20.07.27:850][570]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.03-20.07.27:871][570]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.03-20.07.31:941][815]LogContentBrowser: Attempting asset rename: NewFolder -> Quest
+[2024.07.03-20.07.31:941][815]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.03-20.07.35:488][ 23]LogContentBrowser: Deferred new asset file creation: BP_NPCCharacters_Child
+[2024.07.03-20.07.35:516][ 23]LogContentBrowser: Creating deferred item: BP_NPCCharacters_Child
+[2024.07.03-20.07.43:337][493]LogContentBrowser: Attempting asset rename: BP_NPCCharacters_Child -> BP_NPC_DD
+[2024.07.03-20.07.43:343][493]LogContentBrowser: End creating deferred item BP_NPCCharacters_Child
+[2024.07.03-20.07.43:421][498]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.SKEL_BP_NPC_DD_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.SKEL_BP_NPC_DD_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:157][655]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.07.46:200][655]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.07.46:222][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD" FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/DD/BP_NPC_DD.uasset" SILENT=true
+[2024.07.03-20.07.46:234][655]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_DDC521131142210DBC96B37A8B54E7AB3B.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/DD/BP_NPC_DD.uasset'
+[2024.07.03-20.07.46:347][655]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2024.07.03-20.07.46:396][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.07.03-20.07.46:434][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.07.03-20.07.46:516][655]AssetCheck: New page: Asset Save: BP_NPC_DD
+[2024.07.03-20.07.46:516][655]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.BP_NPC_DD
+[2024.07.03-20.07.49:599][832]LogContentBrowser: Deferred new asset file creation: BP_NPCCharacters_Child
+[2024.07.03-20.07.49:636][832]LogContentBrowser: Creating deferred item: BP_NPCCharacters_Child
+[2024.07.03-20.08.00:324][474]LogContentBrowser: Attempting asset rename: BP_NPCCharacters_Child -> BP_NPC_Quest_A
+[2024.07.03-20.08.00:328][474]LogContentBrowser: End creating deferred item BP_NPCCharacters_Child
+[2024.07.03-20.08.00:391][478]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.01:254][528]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.SKEL_BP_NPC_Quest_A_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.SKEL_BP_NPC_Quest_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:614][845]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.08.06:658][845]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.06:696][845]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Quest_AFD4EE0D64F6D008B65EC5F9F763A0CFD.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.uasset'
+[2024.07.03-20.08.06:810][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2024.07.03-20.08.06:867][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2024.07.03-20.08.06:907][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.07.03-20.08.06:991][845]AssetCheck: New page: Asset Save: BP_NPC_Quest_A
+[2024.07.03-20.08.06:991][845]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.BP_NPC_Quest_A
+[2024.07.03-20.08.13:445][228]LogContentBrowser: Attempting asset rename: BP_NPC_DD -> BP_NPC_DD_A
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.SKEL_BP_NPC_DD_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.SKEL_BP_NPC_DD_A_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:461][228]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD.PackageMetaData'
+[2024.07.03-20.08.13:505][228]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.13:525][228]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.13:540][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A" FILE="D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.uasset" SILENT=true
+[2024.07.03-20.08.13:554][228]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_DD_AA13A0C5A4675B3127CFB74B908ED5984.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.uasset'
+[2024.07.03-20.08.13:668][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2024.07.03-20.08.13:719][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.07.03-20.08.13:755][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.03-20.08.13:832][228]AssetCheck: New page: Asset Save: BP_NPC_DD_A
+[2024.07.03-20.08.13:832][228]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/DD/BP_NPC_DD_A.BP_NPC_DD_A
+[2024.07.03-20.08.24:335][854]LogContentBrowser: Deferred new asset file creation: BP_NPCCharacters_Child
+[2024.07.03-20.08.24:371][854]LogContentBrowser: Creating deferred item: BP_NPCCharacters_Child
+[2024.07.03-20.08.30:895][246]LogContentBrowser: Attempting asset rename: BP_NPCCharacters_Child -> BP_NPC_Boss_A
+[2024.07.03-20.08.30:899][246]LogContentBrowser: End creating deferred item BP_NPCCharacters_Child
+[2024.07.03-20.08.30:967][250]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.SKEL_BP_NPC_Boss_A_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.SKEL_BP_NPC_Boss_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A_C' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:586][400]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/BP_NPC_Boss_A.PackageMetaData'
+[2024.07.03-20.08.33:631][400]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.33:676][400]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Boss_AA8CFE6A744D6B6865DC7119C774C9D73.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.uasset'
+[2024.07.03-20.08.33:784][400]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2024.07.03-20.08.33:834][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.07.03-20.08.33:873][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.03-20.08.33:963][400]AssetCheck: New page: Asset Save: BP_NPC_Boss_A
+[2024.07.03-20.08.33:965][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/Boss/BP_NPC_Boss_A.BP_NPC_Boss_A
+[2024.07.03-20.08.45:427][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A
+[2024.07.03-20.08.45:948][ 75]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.45:979][ 75]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.46:016][ 76]LogRenderer: Reallocating scene render targets to support 972x672 Format 9 NumSamples 1 (Frame:1).
+[2024.07.03-20.08.53:619][476]LogMaterial: Display: Missing cached shadermap for Mat_PolygonPrototype_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E09F96C058B478F072EA9320F21CD56FE1E1EFB), compiling. 
+[2024.07.03-20.08.53:746][476]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2024.07.03-20.08.53:752][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2024.07.03-20.08.53:752][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2024.07.03-20.08.53:752][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2024.07.03-20.08.53:752][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2024.07.03-20.08.53:752][476]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2024.07.03-20.08.53:752][476]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.53:754][476]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.08.53:756][476]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.08:018][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.07.03-20.09.08:018][248]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.07.03-20.09.08:018][248]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.03-20.09.08:018][248]LogShaderCompilers: Display: Total job queries 41, among them cache hits 0 (0.00%)
+[2024.07.03-20.09.08:018][248]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2024.07.03-20.09.08:020][248]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2024.07.03-20.09.08:020][248]LogShaderCompilers: Display: ================================================
+[2024.07.03-20.09.18:065][836]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.18:067][836]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.18:071][836]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.19:818][936]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.19:821][936]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.19:823][936]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.21:397][ 25]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.21:400][ 25]LogMaterial: Display: Material /Game/PolygonPrototype/Materials/Alts/Mat_PolygonPrototype_06.Mat_PolygonPrototype_06 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.07.03-20.09.21:404][ 25]LogMaterial: Display: Missing cached shadermap for Mat_PolygonPrototype_06 in PCD3D_SM5, Default, SM5 (DDC key hash: 5190B94399B4BBE4D72553E92C3DD82E760F9528), compiling. 
+[2024.07.03-20.09.21:446][ 25]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2024.07.03-20.09.21:450][ 25]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.21:452][ 25]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2024.07.03-20.09.21:452][ 25]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2024.07.03-20.09.21:452][ 25]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2024.07.03-20.09.21:452][ 25]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2024.07.03-20.09.21:452][ 25]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2024.07.03-20.09.21:452][ 25]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.30:492][485]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.07.03-20.09.30:492][485]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.07.03-20.09.38:946][989]LogContentBrowser: Attempting asset rename: BP_NPC_Quest_A -> BP_NPC_Friend_Bob
+[2024.07.03-20.09.38:967][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob_C' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.SKEL_BP_NPC_Friend_Bob_C' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.SKEL_BP_NPC_Friend_Bob_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.38:968][989]LogMetaData: Removing '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Quest_A.PackageMetaData'
+[2024.07.03-20.09.39:020][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.39:037][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.09.39:067][989]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Friend_Bob404BE00A45AFDC48EE415FB2BA7232A4.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.uasset'
+[2024.07.03-20.09.39:206][989]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2024.07.03-20.09.39:272][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2024.07.03-20.09.39:315][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.07.03-20.09.39:403][989]AssetCheck: New page: Asset Save: BP_NPC_Friend_Bob
+[2024.07.03-20.09.39:403][989]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/Quest/BP_NPC_Friend_Bob.BP_NPC_Friend_Bob
+[2024.07.03-20.09.44:116][269]LogContentBrowser: Deferred new asset file creation: BP_NPC_Friend_Bob1
+[2024.07.03-20.09.44:132][269]LogContentBrowser: Creating deferred item: BP_NPC_Friend_Bob1
+[2024.07.03-20.09.50:823][671]LogContentBrowser: Attempting asset rename: BP_NPC_Friend_Bob1 -> BP_NPC_Stranger
+[2024.07.03-20.09.50:879][671]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2024.07.03-20.09.50:888][671]LogContentBrowser: End creating deferred item BP_NPC_Friend_Bob1
+[2024.07.03-20.09.50:893][671]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.10.22:844][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2024.07.03-20.10.22:890][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/HW04_MarinaDeykun_EasyDifficulty145ADFF2477ACB0196E5D7A4D853D039.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Maps/HW04_MarinaDeykun_EasyDifficulty_Auto2.umap'
+[2024.07.03-20.10.22:891][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/HW04_MarinaDeykun_EasyDifficulty' took 0.096
+[2024.07.03-20.10.22:891][568]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2024.07.03-20.10.22:892][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/BP_AIController] ([2] browsable assets)...
+[2024.07.03-20.10.22:892][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/BP_AIController]
+[2024.07.03-20.10.23:014][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_AIController_Auto241F6C89F42974DC2CBD6AFB182725A5B.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Controllers/BP_AIController_Auto2.uasset'
+[2024.07.03-20.10.23:015][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Weapons/BP_WeaponBase] ([2] browsable assets)...
+[2024.07.03-20.10.23:025][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase]
+[2024.07.03-20.10.23:025][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_WeaponBase]
+[2024.07.03-20.10.23:118][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_WeaponBase_Auto2BAD615714DA0094B090D54B1840D252D.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto2.uasset'
+[2024.07.03-20.10.23:120][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/Widgets/W_HealthBar] ([2] browsable assets)...
+[2024.07.03-20.10.23:120][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/Widgets/W_HealthBar]
+[2024.07.03-20.10.23:154][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/W_HealthBar_Auto23191EF994E26178C121739B9E2521ADE.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/HUD/Widgets/W_HealthBar_Auto2.uasset'
+[2024.07.03-20.10.23:155][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/Widgets/W_StaminaBar] ([2] browsable assets)...
+[2024.07.03-20.10.23:155][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/Widgets/W_StaminaBar]
+[2024.07.03-20.10.23:193][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/W_StaminaBar_Auto2FE76B1044137900908E2A4962D0CE70D.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/HUD/Widgets/W_StaminaBar_Auto2.uasset'
+[2024.07.03-20.10.23:194][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Environment/BP_ShootingTarget] ([2] browsable assets)...
+[2024.07.03-20.10.23:203][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Environment/BP_ShootingTarget.BP_ShootingTarget]
+[2024.07.03-20.10.23:203][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/BP_ShootingTarget]
+[2024.07.03-20.10.23:229][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_ShootingTarget_Auto2565272FF4CD53BBD7EDE6EBED06EEA40.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Environment/BP_ShootingTarget_Auto2.uasset'
+[2024.07.03-20.10.23:229][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonPrototype/Materials/Alts/Mat_PolygonPrototype_06] ([1] browsable assets)...
+[2024.07.03-20.10.23:237][568]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PolygonPrototype/Materials/Alts/Mat_PolygonPrototype_06.Mat_PolygonPrototype_06]
+[2024.07.03-20.10.23:237][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonPrototype/Materials/Alts/Mat_PolygonPrototype_06]
+[2024.07.03-20.10.23:243][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Mat_PolygonPrototype_06_Auto2D08FAB934B4AF97A2D0F9B8903B966EF.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/PolygonPrototype/Materials/Alts/Mat_PolygonPrototype_06_Auto2.uasset'
+[2024.07.03-20.10.23:244][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A] ([2] browsable assets)...
+[2024.07.03-20.10.23:252][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A]
+[2024.07.03-20.10.23:252][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A]
+[2024.07.03-20.10.23:262][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Tank_A_Auto2760C46194D1EBC734628B18B465958BA.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A_Auto2.uasset'
+[2024.07.03-20.10.23:263][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Stranger] ([2] browsable assets)...
+[2024.07.03-20.10.23:272][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/NPC/Quest/BP_NPC_Stranger.BP_NPC_Stranger]
+[2024.07.03-20.10.23:274][568]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.10.23:290][568]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Characters/NPC/Quest/BP_NPC_Stranger.BP_NPC_Stranger_C]
+[2024.07.03-20.10.23:290][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Stranger]
+[2024.07.03-20.10.23:304][568]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Stranger_Auto26BB0FDAC40A48F30DE1A188916C8BC96.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/Autosaves/Game/Blueprints/Characters/NPC/Quest/BP_NPC_Stranger_Auto2.uasset'
+[2024.07.03-20.10.23:304][568]LogFileHelpers: Auto-saving content packages took 0.413
+[2024.07.03-20.11.09:690][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.09:691][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.09:692][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.09:693][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.09:694][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.09:695][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.09:702][342]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:456][220]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:456][220]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:457][220]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:458][220]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:458][220]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:460][220]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.24:475][221]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:224][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:225][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:226][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:227][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:228][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:229][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.32:235][686]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:963][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:963][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:964][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:965][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:966][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:967][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.48:973][690]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.53:964][989]BlueprintLog: New page: Compile BP_NPC_Tank_A
+[2024.07.03-20.11.53:973][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.53:974][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.53:975][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.53:976][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.53:976][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.53:978][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:062][989]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2024.07.03-20.11.54:068][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:069][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:070][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:070][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:071][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:072][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:074][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:080][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:081][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:082][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:084][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:085][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:085][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:105][989]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.11.54:635][ 19]LogSavePackage: Moving 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Saved/BP_NPC_Tank_AA0D911E348C3CE589796E69BE1961397.tmp' to 'D:/pipsi/UED-33_MarinaDeykun/N_TPAA_Marina 4.27/Content/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.uasset'
+[2024.07.03-20.11.54:656][ 19]AssetCheck: New page: Asset Save: BP_NPC_Tank_A
+[2024.07.03-20.11.54:656][ 19]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/NPC/Tank/BP_NPC_Tank_A.BP_NPC_Tank_A
+[2024.07.03-20.12.01:768][440]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.01:775][440]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.01:777][440]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.01:779][440]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.01:780][440]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.02:216][465]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.02:218][465]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.02:219][465]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.02:280][465]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.02:281][465]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_PolygonDummy_C already exists. Remove duplicates from the animation graph for this class.
+[2024.07.03-20.12.04:342][585]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.03-20.12.04:371][585]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.03-20.12.04:386][585]LogPlayLevel: [PlayLevel] Compiling BP_WeaponBase before play...
+[2024.07.03-20.12.04:386][585]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_Pistol as a dependent...
+[2024.07.03-20.12.04:386][585]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_Riffle as a dependent...
+[2024.07.03-20.12.04:386][585]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_RocketLauncher as a dependent...
+[2024.07.03-20.12.04:386][585]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_Shotgun as a dependent...
+[2024.07.03-20.12.04:386][585]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_SniperRiffle as a dependent...
+[2024.07.03-20.12.04:500][585]LogPlayLevel: [PlayLevel] Compiling BP_AIController before play...
+[2024.07.03-20.12.04:575][585]LogPlayLevel: [PlayLevel] Compiling BP_ShootingTarget before play...
+[2024.07.03-20.12.04:612][585]LogPlayLevel: [PlayLevel] Compiling HW04_MarinaDeykun_EasyDifficulty before play...
+[2024.07.03-20.12.04:646][585]LogPlayLevel: [PlayLevel] Compiling Level_01_Gameplay before play...
+[2024.07.03-20.12.04:675][585]LogPlayLevel: [PlayLevel] Compiling Level_02_P before play...
+[2024.07.03-20.12.04:703][585]LogPlayLevel: [PlayLevel] Compiling W_HealthBar before play...
+[2024.07.03-20.12.04:775][585]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.07.03-20.12.04:829][585]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.053 s
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: === Handled ensure: ===
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: 
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: Stack: 
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb242148c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23a2bd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb1e4fe3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb1e4fe501 UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb1e4d4627 UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb1e47c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb1e47bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23a000de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23b7aed7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23b82a9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23b86d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23b865f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb235e0c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffb23ee2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ff7858e87a0 UE4Editor.exe!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ff785900fcc UE4Editor.exe!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ff7859010ba UE4Editor.exe!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ff7859040dd UE4Editor.exe!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ff785915984 UE4Editor.exe!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ff78591853a UE4Editor.exe!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffbbb7e257d KERNEL32.DLL!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: [Callstack] 0x00007ffbbca0aa78 ntdll.dll!UnknownFunction []
+[2024.07.03-20.12.04:830][585]LogOutputDevice: Error: 
